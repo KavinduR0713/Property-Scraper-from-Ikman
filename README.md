@@ -54,3 +54,5 @@ Data processing involves organizing and preparing the data for analysis. In this
 python
    ##### 2. Data Export:
    - After organizing the data into a DataFrame, it is exported to an Excel file. This step involves using Pandas' built-in functionality to save the DataFrame in a structured format that can be used for further analysis in tools like Excel or other data analysis software.
+
+## How it works
