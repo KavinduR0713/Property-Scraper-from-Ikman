@@ -56,3 +56,4 @@ python
    - After organizing the data into a DataFrame, it is exported to an Excel file. This step involves using Pandas' built-in functionality to save the DataFrame in a structured format that can be used for further analysis in tools like Excel or other data analysis software.
 
 ## How it works
+https://github.com/KavinduR0713/Property-Scraper-from-Ikman/assets/105490780/3c9adeef-3b7f-4d8b-8de5-d47073eb1a2a
